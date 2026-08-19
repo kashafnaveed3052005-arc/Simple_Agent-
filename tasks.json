@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Submit assignment",
+    "due": "tomorrow",
+    "done": false
+  },
+  {
+    "title": "Add exercise routi${lineNumber}",
+    "due": "tomorrow",
+    "done": false
+  },
+  
+  {
+    "title": "Treat Day with Jawad Bhai",
+    "due": "1st September",
+    "done": true
+  },
+  {
+    "title": "Lunch at Eggspetation on Weekend",
+    "due": "Weekend",
+    "done": false
+  }
+]
